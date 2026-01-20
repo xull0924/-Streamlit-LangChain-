@@ -49,7 +49,7 @@ pip install -r requirements.txt
 
 2. 添加以下内容：
 
-DASHSCOPE_API_KEY=你的阿里云API_Key//这里可以用我的sk-4411b35cddab46d78ad006736a6d6224
+DASHSCOPE_API_KEY=你的阿里云API_Key
 
 3. 保存文件
 
